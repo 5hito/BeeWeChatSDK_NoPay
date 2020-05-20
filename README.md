@@ -1,0 +1,1 @@
+# BeeWeChatSDK_NoPay
